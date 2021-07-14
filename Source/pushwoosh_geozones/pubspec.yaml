@@ -10,8 +10,8 @@ dependencies:
   pushwoosh: 
     path: ../pushwoosh
 
-environment:
-  sdk: ">=1.19.0 <3.0.0"
+environment:                                                            
+  sdk: '>=2.12.0 <3.0.0'  
 
 # The following section is specific to Flutter.
 flutter:
